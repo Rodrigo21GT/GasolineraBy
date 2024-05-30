@@ -1,0 +1,15 @@
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\ProyectoFinalProgra.exe.config
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\ProyectoFinalProgra.exe
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\ProyectoFinalProgra.pdb
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\System.IO.Ports.dll
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\Downloads\Proyecto\bin\Debug\System.IO.Ports.xml
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.Form1.resources
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.Properties.Resources.resources
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.csproj.GenerateResource.cache
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\Proyecto.18921178.Up2Date
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.exe
+C:\Users\rodri\Downloads\Proyecto\obj\Debug\ProyectoFinalProgra.pdb

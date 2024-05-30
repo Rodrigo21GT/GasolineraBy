@@ -1,0 +1,30 @@
+Pedro
+30/05/2024 09:13:47
+Bomba 2
+100
+Prepago limitado
+
+pedro
+30/05/2024 09:15:44
+Bomba 1
+300
+Tanque lleno
+
+Irving
+30/05/2024 13:27:44
+Bomba 2
+30
+Tanque lleno
+
+Pedro
+30/05/2024 13:49:04
+Bomba 1
+1000
+Prepago limitado
+
+Pedro
+30/05/2024 13:59:12
+Bomba 1
+589
+Prepago limitado
+
